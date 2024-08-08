@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome:
 I am currently studying Data Analysis<br>I am looking to collaborate with experienced data analysist
 
 
